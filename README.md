@@ -8,6 +8,7 @@ The current LeanDog MakerGear M2 build:
 * Reinforced heated bed upgrade
 * Dual Extruder upgrade
 * 4-point bed upgrade
+* M3 RAMBO addon board with Raspberry Pi running Octoprint
 
 # firmware
 
