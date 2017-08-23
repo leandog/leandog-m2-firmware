@@ -20,7 +20,7 @@ Arduino 1.5.5 is in the repo, which should be used for flashing. Select MEGA 256
 
 # z offsets
 
-Borosilicate + PEI: -4.05
+Borosilicate + PEI: -3.55
 
 To read EEPROM settings:
 
@@ -31,6 +31,6 @@ M503 ; echo settings from EEPROM to serial output
 To set Z offset:
 
 ```
-M206 Z-4.05 ; sets z offset to -4.05
+M206 Z-3.55 ; sets z offset to -3.55
 M500 ; save to EEPROM
 ```
