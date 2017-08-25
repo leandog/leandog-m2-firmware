@@ -19,7 +19,7 @@ Current firmware base is [M2E-Production-SnNRd-V105](http://makergear.wikidot.co
 ~~Arduino 1.5.5 is in the repo, which should be used for flashing. Select MEGA
 2560 as board. You do not need the RAMBo-specific board library.~~
 
-UPDATE: Flashing should be done instead via [platform.io](www.platformio.org).
+UPDATE: Flashing should be done instead via [platform.io](http://www.platformio.org).
 Instructions need to be added.
 
 # z offsets
